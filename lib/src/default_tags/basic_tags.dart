@@ -78,6 +78,7 @@ class ColorTag extends StyleTag {
 
     return oldStyle;
   }
+}
 
 /// Basic implementation of the [h<number>] tag.
 /// [_textSize] is used to define the new textSize.
